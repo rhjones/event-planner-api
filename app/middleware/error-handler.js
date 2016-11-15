@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('event-planner-api:error-handler');
+const debug = require('debug')('happening-api:error-handler');
 
 const errorHandler = (err, req, res, next) => {
   //jshint unused:false

@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('event-planner-api:users');
+const debug = require('debug')('happening-api:users');
 
 const controller = require('lib/wiring/controller');
 const models = require('app/models');
