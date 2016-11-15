@@ -2,6 +2,8 @@
 
 Express API for [Happening](https://github.com/rhjones/happening) ([rhjones/happening](https://github.com/rhjones/happening)), an event planning app.
 
+API is live at [https://happening-rhj.herokuapp.com/](https://happening-rhj.herokuapp.com/).
+
 ## Technologies
 
 - MongoDB
