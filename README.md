@@ -1,10 +1,21 @@
 # Happening API
 
-Express API for [Happening](https://github.com/The-Spectacles/event-planner), an event planning app.
+Express API for [Happening](https://github.com/rhjones/happening) ([rhjones/happening](https://github.com/rhjones/happening)), an event planning app.
+
+## Technologies
+
+- MongoDB
+- Mongoose
+- Express
 
 ## API
 
 Scripts are included in [`scripts`](scripts) to test actions.
+
+- [Authentication](#authentication)
+- [Users](#users)
+- [Events](#events)
+- [RSVPs](#rsvps)
 
 ### Authentication
 
